@@ -1,0 +1,15 @@
+Projeto Integrador
+Problema
+c. Manutenção de estoques de materiais.
+
+Produzir um sistema de Informação
+- Descrição do objetivo
+- Funções que o sistema poderá executar(descritas)
+- Funções que apresentam IA(descritas)
+- Interfaces para a coleta e para apresentação das informações(descritas)
+- O modelo de banco de dados(descrito)
+
+Escolher uma das funções propostas e programá-las para web, contendo as entradas, a execução da função escolhida, as saídas e a persístencia em banco de dados.
+
+A partir do cenário escolhido e concretizado, produzir uma resenha de não mais que duas laudas.
+
